@@ -24,9 +24,9 @@
 ## 💣 EXAMPLES 💣
 
 ### The command:
-### `./pipex infile "ls -l" "wc -l" outfile`
+#### `./pipex infile "ls -l" "wc -l" outfile`
 ### Should do the same as:
-### `<infile ls -l | wc -l >outfile`
+#### `<infile ls -l | wc -l >outfile`
 
 ## 💯 Mark 💯
 
