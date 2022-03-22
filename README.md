@@ -1,5 +1,5 @@
 <h1 align="center">Pipex</h1>
-<h4>For this project we will have to replicate a mecanism from UNIX, specifically "pipes"</h4>
+<h4>For this project we will have to replicate a mecanism from UNIX, specifically "pipes".</h4>
 
 ## 📚 Mandatory Part 📚
 
